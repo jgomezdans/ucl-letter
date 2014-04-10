@@ -6,27 +6,27 @@
 
 
 %%% Signature information
-\setkomavar{fromname}{The Sender}
+\setkomavar{fromname}{J G\'omez-Dans}
 %%% For a multi-line signature
 \setkomavar{signature}{%
   %\includegraphics{sigimage}\\
-  The Sender\\
-  Position}
+  Dr J L G\'omez-Dans\\
+  Workshop co-organiser}
 
 
 %%% Header information (should be capitalised)
-\setkomavar{headtitle}{UCL DEPARTMENT OF XXX}
+\setkomavar{headtitle}{UCL DEPARTMENT OF GEOGRAPHY}
 % \setkomavar{headsubtitle}{OPTIONAL LINE 1\\ OPTIONAL LINE 2}
 
 %%% Footer information (use as required)
 \setkomavar{fromaddress}{%
-  UCL Department of XX\\
+  UCL Department of Geography\\
   University College London, Gower Street, London WC1E 6BT
 } 
-\setkomavar{fromphone}{+44~(0)20~7XXX~XXXX}
-\setkomavar{fromfax}{+44~(0)20~7XXX~XXXX}
-\setkomavar{fromemail}{sender@ucl.ac.uk}
-\setkomavar{fromurl}{http://www.ucl.ac.uk/XXX}
+\setkomavar{fromphone}{+44~(0)20~767~90590}
+\setkomavar{fromfax}{+44~(0)20~767~7565}
+\setkomavar{fromemail}{j.gomez-dans@ucl.ac.uk}
+\setkomavar{fromurl}{http://www.geog.ucl.ac.uk}
 %%% possible partner logo
 % \setkomavar{fromlogo}{\includegraphics[height=2cm]{imagename}}
 %%% set colour of footer text
